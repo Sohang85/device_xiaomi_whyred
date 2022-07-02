@@ -1,0 +1,2 @@
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
